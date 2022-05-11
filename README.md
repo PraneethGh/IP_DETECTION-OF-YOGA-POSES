@@ -39,8 +39,9 @@ A runthrough and demo of the project is shown in this video.
 ## Output
 
 ### OpenPose
-![OpenPose output 1]("miscellaneous/OpenPose sample-1.jpeg")
-![OpenPose output 2](miscellaneous/OpenPose sample-1.jpeg)
+
+![OpenPose output 1](miscellaneous/OpenPose%20sample-1.jpeg)
+![OpenPose output 2](miscellaneous/OpenPose%20sample-2.jpeg)
 ## Authors
 
 - [Saravanan Kishan - 19BCE1337](https://github.com/kishan-ui)
