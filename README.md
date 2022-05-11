@@ -21,7 +21,6 @@ A runthrough and demo of the project is shown in this video.
 ### Software
 - A web browser(Chrome, Firefox, etc.)
 - A Google account
-### Hardware
 
 
 ## Steps to Run
