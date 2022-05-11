@@ -35,11 +35,12 @@ A runthrough and demo of the project is shown in this video.
 ### Execution
 - Enter shortcut "Ctrl+F9" to  run entire code.
 - To run specific cell, click on desired cell and enter "Ctrl+Enter".
+
 ## Output
 
 ### OpenPose
-![OpenPose output 1]("https://github.com/PraneethGh/IP_DETECTION-OF-YOGA-POSES/blob/main/miscellaneous/OpenPose%20sample-2.jpeg")
-![OpenPose output 2]("https://github.com/PraneethGh/IP_DETECTION-OF-YOGA-POSES/blob/main/miscellaneous/OpenPose%20sample-1.jpeg")
+![OpenPose output 1]("miscellaneous/OpenPose sample-1.jpeg")
+![OpenPose output 2](miscellaneous/OpenPose sample-1.jpeg)
 ## Authors
 
 - [Saravanan Kishan - 19BCE1337](https://github.com/kishan-ui)
